@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 22 , 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Jacob Kachur)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(To calculate the percentage a person spends in each category for monthly spendings. )
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://jmk17b.github.io/lesson4_javascript1/.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to add additional list items on to HTML code templates
+2. I learned how to add additional list items on a javascript file
+3. I learned how to change a value from sting to float using parsefloar()
 
 
 
